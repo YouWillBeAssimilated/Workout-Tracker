@@ -1,0 +1,20 @@
+Day 1
+Barbell Incline Bench Press,Upper Chest,Barbell,3,6-9,95
+Dumbbell Shoulder Press,Shoulders,Dumbbells,3,8-10,35
+Dumbbell Fly,Middle Chest,Dumbbell,3,10-12,25
+Dumbbell Lateral Raise,Shoulders,Dumbbells,3,12-15,12.5
+Cable Tricep Pushdown,Tricep,Cable,3,10-12,35
+Day 2
+Dumbbell Bent-Over Row,Back,Dumbbell,3,8-10,55
+Cable Lat Pulldown,Lats,Cable,3,8-12,60
+Cable Seated Row,Back,Cable,3,10-12,75
+Dumbbell Rear Delt Row,Delts,Dumbbell,2,12-15,30
+Barbell Preacher Curl,Biceps,Barbell,3,8-12,45
+Dumbbell Hammer Curl,Biceps,Dumbbell,3,10-12,20
+Day 3
+Barbell Full Squat,Legs,Barbell,3,6-8,135
+Machine Lying Leg Curl,Legs,Machine,3,8-12,50
+Machine Leg Extension,leg,Machine,3,10-14,60
+Cable Kneeling Crunch,Abs,Cable,3,10-12,110
+Cable Twist,Side Abs,Cable,3,10-12,50
+Wrist Curl and Reverse Wrist Curl,Forearms,Cable,3,12-15,20
