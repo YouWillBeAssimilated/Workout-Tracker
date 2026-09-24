@@ -27,10 +27,10 @@ A console-based workout tracking application written in C++ that allows multiple
  
 ## Project Structure
  
-users.txt
-User1.txt
-User2.txt
-Main.cpp
+src/ - Application source code
+data/ - Sample workout data
+images/ - Screenshots
+docs/ - Additional documentation
  
 ## Example Workflow
  
